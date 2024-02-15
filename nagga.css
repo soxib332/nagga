@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 100svh;
+}
+.nvb{
+    background-color: #212121;
+    width: 2494px;
+    height: 209.5px;
+}
+.logo{
+    width: 294.05px;
+    height: 95px;
+    padding-top: 59.39px;
+    padding-left: 166.61px;
+    display: flex;
+    justify-content: space-between;
+}
+.vector{
+    width: 80.5px;
+    height: 87.21px;
+}
+.camp{
+    font-size: 74.23px;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-family: "Space Grotesk", sans-serif;
+    line-height: 94.72px;
+}
+.rectangle1{
+    width: 2494px;
+    height: 1272px;
+    top: 210px;
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 749.06px;
+    height: 54px;
+    font-family: "Space Grotesk", sans-serif;
+    text-decoration: none;
+}
